@@ -1,10 +1,8 @@
 Directory Structure
 ===================
-drivers   WebDriver executables for different browsers - chromedriver.exe, geckodriver.exe etc.
-
-output    Output directory where the output, report, log and screenshot files will be saved
-
-tests     Collection of test cases files
+drivers - WebDriver executables for different browsers - chromedriver.exe, geckodriver.exe etc.  
+output  - Output directory where the output, report, log and screenshot files will be saved  
+tests   - Collection of test cases files  
 
 
 Setup
